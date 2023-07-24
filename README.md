@@ -17,6 +17,6 @@ Jeu de taquin 3x3 en Python permettant de jouer au taquin en utilisantles algori
 ## Ouvrir le Notebook avec Google Colab
 Pour exécuter et interagir avec le notebook, vous pouvez l'ouvrir directement avec Google Colab.
 Cliquez sur le badge "Open in Colab" pour lancer le notebook dans votre navigateur avec Google Colab :
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yosrayarmani/IA-Jeu-Taquin/taquin.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yosrayarmani/IA-Jeu-Taquin/blob/main/taquin.ipynb)
 
 Assurez-vous de disposer d'un compte Google pour utiliser Google Colab.
